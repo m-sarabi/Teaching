@@ -1,18 +1,18 @@
 MAX_SIZE
 my variable
 camelCaseVariable
-snake_case_variable
 class
-_val
 1st_variable
-my_variable
+snake_case_variable
 dinner-time
+_val
+My Variable
+my_variable
+$price
 list_of_items
 total2
-My Variable
-temperature
-user_input
-$price
 for
 my_variable!
+temperature
+user_input
 True
